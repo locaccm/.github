@@ -1,9 +1,10 @@
-# [Nom du projet]
+# LocaCCM
 
 ## Présentation du projet (10 lignes)
+(DYLAN)
 
 ## Composition de l'équipe
-Lister les noms de chaque membre de l'équipe avec :{ url du dépôt et rôle(s) du membre }
+Lister les noms de chaque membre de l'équipe avec :{ url du dépôt et rôle(s) du membre } (TOM)
 
 ## Présentation de la CI/CD
 
@@ -129,6 +130,7 @@ Ces tests seront automatisés et intégrés dans le pipeline CI/CD via **GitHub 
 ![Diagramme d'architecture](../images/diag-archi.png)
 
 ## Liste des services GCP utilisés et estimation du coût
+(MATTHIEU)
 
 ## "Mode d'emploi"
 Tuto sur les différents utilisation de votre app  
