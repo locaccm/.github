@@ -126,7 +126,7 @@ Ces tests seront automatisés et intégrés dans le pipeline CI/CD via **GitHub 
 
 
 ## Schéma de l'architecture micro-service
-[image]
+![Diagramme d'architecture](../images/diag-archi.png)
 
 ## Liste des services GCP utilisés et estimation du coût
 
