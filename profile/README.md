@@ -141,7 +141,7 @@ Ces tests seront automatisés et intégrés dans le pipeline CI/CD via **GitHub 
 ![Diagramme d'architecture base de donnée](../images/diag-bdd.png)
 
 ## Liste des services GCP utilisés et estimation du coût
-![Estimation des coûts](../images/Google_Cloud_Estimate_Summary_locaccm.pdf)
+[Estimation des coûts](../images/Google_Cloud_Estimate_Summary_locaccm.pdf "Lien vers le pdf")
 
 ## "Mode d'emploi"
 Tuto sur les différents utilisation de votre app  
