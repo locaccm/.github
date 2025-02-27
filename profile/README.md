@@ -101,25 +101,26 @@ Une fois les microservices déployés, il sera essentiel d'assurer leur bon fonc
 
 Ces tests permettront de vérifier que chaque service fonctionne comme prévu après son déploiement. Ils incluront :
 
+
 1. **Tests API** :
-   - Utilisation d’outils comme **Postman/Newman** ou **RestAssured** pour automatiser les tests des endpoints.
-   - Vérification des codes HTTP, des schémas de réponse et des temps de latence.
+   - Automatisation des tests des endpoints.
+   - Vérification des codes de réponse, des formats et des temps de latence.
    - Validation des permissions et des accès aux ressources protégées.
 
 2. **Tests de base de données** :
-   - Exécution de requêtes SQL automatisées pour valider l'intégrité des données.
-   - Vérification des connexions aux bases de données et du bon fonctionnement des migrations de schéma.
-   - Utilisation de **Flyway** ou **Liquibase** pour tester et valider les changements dans la structure des bases de données.
+   - Exécution de requêtes pour valider l'intégrité des données.
+   - Vérification des connexions et du bon fonctionnement des migrations de schéma.
+   - Validation des changements dans la structure des bases de données.
 
 3. **Tests d'intégration** :
-   - Mise en place de tests avec **Cypress** (pour les applications web) ou **JUnit/TestNG** pour s’assurer du bon fonctionnement des interactions entre microservices.
+   - Mise en place de tests pour s’assurer du bon fonctionnement des interactions entre microservices.
    - Simulations de scénarios utilisateur et validation des échanges de données entre les services.
-   - Utilisation de **MockServer** pour tester des services externes et garantir des réponses cohérentes.
+   - Tests des interactions avec des services externes pour garantir des réponses cohérentes.
 
 4. **Tests de charge** :
-   - Utilisation de **k6**, **JMeter** ou **Gatling** pour simuler un grand nombre de requêtes simultanées et observer les performances.
+   - Simulation de requêtes simultanées pour observer les performances.
    - Définition de seuils de performance pour identifier les goulets d’étranglement.
-   - Mesure des temps de réponse sous différentes charges et ajustement des ressources Cloud Run si nécessaire.
+   - Mesure des temps de réponse sous différentes charges et ajustement des ressources si nécessaire.
 
 Ces tests seront automatisés et intégrés dans le pipeline CI/CD via **GitHub Actions**, garantissant ainsi une validation continue après chaque déploiement.
 
