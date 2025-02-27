@@ -129,6 +129,9 @@ Ces tests seront automatisés et intégrés dans le pipeline CI/CD via **GitHub 
 ## Schéma de l'architecture micro-service
 ![Diagramme d'architecture](../images/diag-archi.png)
 
+## Schéma de l'architecture base de donnée
+![Diagramme d'architecture base de donnée](../images/diag-bdd.png)
+
 ## Liste des services GCP utilisés et estimation du coût
 (MATTHIEU)
 
