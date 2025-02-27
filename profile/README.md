@@ -4,7 +4,15 @@
 (DYLAN)
 
 ## Composition de l'équipe
-Lister les noms de chaque membre de l'équipe avec :{ url du dépôt et rôle(s) du membre } (TOM)
+ - **Dynastie AMOUSSOU** => QA & développement du micro-service (https://github.com/locaccm/dashboardManagement)
+ - **Leo LOMEL** => QA & développement du micro-service (https://github.com/locaccm/chat)
+ - **Axel BOUTEILLER** => Scrum Master & développement du micro-service (https://github.com/locaccm/wealthManagement)
+ - **Clement FOULON** => DevOps & développement du micro-service (https://github.com/locaccm/housingAllocation)
+ - **Matthieu MARIN** => Architecte Cloud & développement du micro-service (https://github.com/locaccm/authentication)
+ - **Dylan TATIN** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/notification)
+ - **Mosleh SNOUSSI** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/adminManagement)
+ - **Maxime CAUWET** => DevOps & développement du micro-service (https://github.com/locaccm/profileManagement)
+ - **Tom DEHAME** => Producteur Owner & développement du micro-service (https://github.com/locaccm/documentManagement)
 
 ## Présentation de la CI/CD
 
