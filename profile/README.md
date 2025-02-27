@@ -1,7 +1,17 @@
 # LocaCCM
 
 ## Présentation du projet (10 lignes)
-(DYLAN)
+Trouver et vendre un logement rapidement et sans complications est un défi pour les locataires et les propriétaires. 
+Les solutions actuelles sont souvent limitées, rendant la gestion et la communication complexes.
+LocaCCM est une plateforme en ligne intuitive qui simplifie la recherche, la réservation et la gestion des logements. 
+Elle centralise les échanges entre locataires et propriétaires pour optimiser l’expérience locative.
+La gestion des biens permet aux propriétaires d’ajouter, modifier et supprimer des annonces détaillées. 
+Chaque utilisateur dispose d’un profil personnalisé pour faciliter les interactions.
+Un système de messagerie interne assure une communication fluide entre locataires et propriétaires. 
+La gestion des réservations simplifie l’attribution des logements et réduit les délais.
+Un tableau de bord interactif permet de suivre les disponibilités et les réservations via un calendrier centralisé. 
+La gestion des documents sécurise et facilite le partage des contrats et quittances.
+LocaCCM offre une solution qui améliore l’accès aux logements en rendant le processus plus rapide, efficace et sécurisé.
 
 ## Composition de l'équipe
  - **Dynastie AMOUSSOU** => QA & développement du micro-service (https://github.com/locaccm/dashboardManagement)
