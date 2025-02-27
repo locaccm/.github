@@ -1,9 +1,18 @@
-# [Nom du projet]
+# LocaCCM
 
 ## Présentation du projet (10 lignes)
+(DYLAN)
 
 ## Composition de l'équipe
-Lister les noms de chaque membre de l'équipe avec :{ url du dépôt et rôle(s) du membre }
+ - **Dynastie AMOUSSOU** => QA & développement du micro-service (https://github.com/locaccm/dashboardManagement)
+ - **Leo LOMEL** => QA & développement du micro-service (https://github.com/locaccm/chat)
+ - **Axel BOUTEILLER** => Scrum Master & développement du micro-service (https://github.com/locaccm/wealthManagement)
+ - **Clement FOULON** => DevOps & développement du micro-service (https://github.com/locaccm/housingAllocation)
+ - **Matthieu MARIN** => Architecte Cloud & développement du micro-service (https://github.com/locaccm/authentication)
+ - **Dylan TATIN** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/notification)
+ - **Mosleh SNOUSSI** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/adminManagement)
+ - **Maxime CAUWET** => DevOps & développement du micro-service (https://github.com/locaccm/profileManagement)
+ - **Tom DEHAME** => Producteur Owner & développement du micro-service (https://github.com/locaccm/documentManagement)
 
 ## Présentation de la CI/CD
 
@@ -128,7 +137,11 @@ Ces tests seront automatisés et intégrés dans le pipeline CI/CD via **GitHub 
 ## Schéma de l'architecture micro-service
 ![Diagramme d'architecture](../images/diag-archi.png)
 
+## Schéma de l'architecture base de donnée
+![Diagramme d'architecture base de donnée](../images/diag-bdd.png)
+
 ## Liste des services GCP utilisés et estimation du coût
+![Estimation des coûts](../images/Google_Cloud_Estimate_Summary_locaccm.pdf)
 
 ## "Mode d'emploi"
 Tuto sur les différents utilisation de votre app  
