@@ -12,7 +12,7 @@ Gérer des logements, demande du temps et une bonne organisation : sélection de
 - 📁 **Stockage sécurisé** : Conservez tous vos documents importants (contrats, quittances…) en un seul endroit.  
 - 📅 **Organisation optimisée** : Planifiez visites, signatures et échéances avec des rappels automatiques.
 - 🏷️ **Personnalisation des profils** : Ajoutez une photo de profil, des informations personnelles pour plus de transparence entre les utilisateurs.
-- 🔒 **Authentification sécurisée** : Connexion sécurisée avec authentification à deux facteurs pour protéger vos données et celles de vos locataires.
+- 🔒 **Authentification sécurisée** : Connexion sécurisée avec authentification pour protéger vos données et celles de vos locataires.
 
 **LocaCCM** simplifie la gestion de vos locations en centralisant toutes les tâches au même endroit. 
 Son interface intuitive vous permet de suivre facilement vos logements, d’échanger avec les locataires et de gérer vos documents en toute sécurité. 
