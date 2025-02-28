@@ -6,17 +6,17 @@ Gérer des logements, demande du temps et une bonne organisation : sélection de
 ## 🎯 Fonctionnalités clés  
 
 - 📌 **Attribution simplifiée** : Permet aux propriétaires d’attribuer facilement un logement à un locataire via leur tableau de bord. 
-- 🏠 **Gestion centralisée** : Ajoutez, modifiez et suivez l’état de vos logements en toute simplicité.  
+- 🏠 **Gestion centralisée** : Ajoutez, modifiez et suivez l’état des logements en toute simplicité.  
 - 📩 **Messagerie intégrée** : Messagerie intégrée pour échanger directement entre les différents acteurs.  
 - 📊 **Tableau de bord interactif** : Visualisez l’occupation, les paiements et les dossiers en cours en temps réel.  
-- 📁 **Stockage sécurisé** : Conservez tous vos documents importants (contrats, quittances…) en un seul endroit.  
-- 📅 **Organisation optimisée** : Planifiez visites, signatures et échéances avec des rappels automatiques.
-- 🏷️ **Personnalisation des profils** : Ajoutez une photo de profil, des informations personnelles pour plus de transparence entre les utilisateurs.
-- 🔒 **Authentification sécurisée** : Connexion sécurisée avec authentification pour protéger vos données et celles de vos locataires.
+- 📁 **Stockage sécurisé** : Conservation de tous les documents importants (contrats, quittances…) en un seul endroit.  
+- 📅 **Organisation optimisée** : Visites planifiées, signatures et échéances avec des rappels automatiques.
+- 🏷️ **Personnalisation des profils** : Ajout d'une photo de profil, des informations personnelles pour plus de transparence entre les utilisateurs.
+- 🔒 **Authentification sécurisée** : Connexion sécurisée avec authentification pour protéger les données des propriétaires et celles des locataires.
 
-**LocaCCM** simplifie la gestion de vos locations en centralisant toutes les tâches au même endroit. 
-Son interface intuitive vous permet de suivre facilement vos logements, d’échanger avec les locataires et de gérer vos documents en toute sécurité. 
-Que vous ayez un ou plusieurs biens, la plateforme vous aide à rester organisé et à optimiser votre gestion au quotidien.
+**LocaCCM** simplifie la gestion des locations en centralisant toutes les tâches au même endroit. 
+Son interface intuitive permet aux propriétaires de suivre facilement l'état de leurs logements, d’échanger avec les locataires et de gérer leurs documents en toute sécurité.
+La plateforme aide les propriétaires à rester organisés et à optimiser leur gestion au quotidien.
 
 ## Composition de l'équipe
  - **Dynastie AMOUSSOU** => QA & développement du micro-service (https://github.com/locaccm/dashboardManagement)
