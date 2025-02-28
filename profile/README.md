@@ -1,10 +1,10 @@
 # LocaCCM - La plateforme complète pour la gestion de vos logements  
 
-Gérer des logements, qu'ils soient sociaux ou privés, demande du temps et une bonne organisation : sélection des locataires, suivi des paiements, gestion des documents, communication… **LocaCCM** simplifie tout cela en offrant aux propriétaires un outil digital centralisé pour optimiser la gestion de leurs biens.  
+Gérer des logements, demande du temps et une bonne organisation : sélection des locataires, suivi des paiements, gestion des documents, communication… **LocaCCM** simplifie tout cela en offrant aux propriétaires un outil digital centralisé pour optimiser la gestion de leurs biens.  
 
 ## 🎯 Fonctionnalités clés  
 
-- 📌 **Attribution simplifiée** : Trouvez rapidement des locataires en fonction de leur éligibilité et de vos critères.  
+- 📌 **Attribution simplifiée** : Permet aux propriétaires d’attribuer facilement un logement à un locataire via leur tableau de bord. 
 - 🏠 **Gestion centralisée** : Ajoutez, modifiez et suivez l’état de vos logements en toute simplicité.  
 - 📩 **Messagerie intégrée** : Messagerie intégrée pour échanger directement entre les différents acteurs.  
 - 📊 **Tableau de bord interactif** : Visualisez l’occupation, les paiements et les dossiers en cours en temps réel.  
