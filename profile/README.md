@@ -13,7 +13,9 @@ Gérer des logements, demande du temps et une bonne organisation : sélection de
 - 🏷️ **Personnalisation des profils** : Ajoutez une photo de profil, des informations personnelles pour plus de transparence entre les utilisateurs.
 - 🔒 **Authentification sécurisée** : Connexion sécurisée avec authentification à deux facteurs pour protéger vos données et celles de vos locataires.
 
-**LocaCCM** vous aide à gérer vos locations de manière plus efficace et sans complications.  
+**LocaCCM** simplifie la gestion de vos locations en centralisant toutes les tâches au même endroit. 
+Son interface intuitive vous permet de suivre facilement vos logements, d’échanger avec les locataires et de gérer vos documents en toute sécurité. 
+Que vous ayez un ou plusieurs biens, la plateforme vous aide à rester organisé et à optimiser votre gestion au quotidien.
 
 ## Composition de l'équipe
  - **Dynastie AMOUSSOU** => QA & développement du micro-service (https://github.com/locaccm/dashboardManagement)
