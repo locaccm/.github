@@ -1,23 +1,20 @@
-# LocaCCM
+# LocaCCM - La plateforme dédiée aux propriétaires de logements sociaux
 
-## Présentation du projet (10 lignes)
-### LocaCCM - Plateforme de Gestion des Logements Sociaux
-Trouver un logement social rapidement et sans complications est souvent un défi pour de nombreux demandeurs.  
+Gérer des logements sociaux peut être un vrai défi pour les propriétaires : sélection des locataires, gestion des dossiers, suivi des paiements, communication… Autant de tâches qui prennent du temps et demandent une organisation rigoureuse.  
 
-**LocaCCM** est une plateforme en ligne conçue pour simplifier l’attribution et la gestion des logements sociaux.  
+**LocaCCM** est une plateforme en ligne pensée pour simplifier et optimiser la gestion des logements sociaux. Elle offre aux propriétaires un outil complet pour gérer leurs biens et leurs locataires de manière fluide et efficace.  
 
-Contrairement aux solutions classiques, les logements sont directement proposés aux locataires en fonction de leur éligibilité et de leurs besoins.  
+## 🎯 Fonctionnalités clés  
 
-### Fonctionnalités principales :
+- 📌 **Attribution simplifiée** : Les logements sont proposés automatiquement aux locataires éligibles.  
+- 🏠 **Gestion centralisée des biens** : Ajoutez, mettez à jour et suivez l’occupation de vos logements en quelques clics.  
+- 📩 **Communication facilitée** : Messagerie intégrée pour échanger directement avec vos locataires.  
+- 📊 **Tableau de bord interactif** : Suivi des attributions, paiements et documents administratifs en temps réel.  
+- 📁 **Archivage sécurisé** : Stockez et retrouvez facilement contrats, quittances et autres documents essentiels.  
+- 📅 **Outils d’organisation** : Planification des visites, rappels automatiques pour les échéances et signatures en ligne.  
 
-- 📌 **Attribution automatisée** : Les logements sont proposés directement aux locataires selon leur dossier.  
-- 🏠 **Gestion simplifiée des logements** : Les organismes peuvent ajouter et mettre à jour les logements disponibles.  
-- 📩 **Notifications et messagerie interne** : Les locataires reçoivent des alertes et peuvent échanger avec les gestionnaires.  
-- 📊 **Tableau de bord interactif** : Suivi en temps réel des attributions, disponibilités et dossiers en cours.  
-- 📁 **Stockage sécurisé des documents** : Centralisation des contrats, quittances et autres documents essentiels.  
-- 📅 **Calendrier et rappels automatiques** : Organisation des visites, signatures de contrats et échéances importantes.  
+Avec **LocaCCM**, les propriétaires disposent d’un outil moderne et intuitif pour gérer leurs logements sociaux plus rapidement, en toute transparence et sans complications.  
 
-Grâce à **LocaCCM**, l’attribution des logements sociaux devient plus rapide, transparente et efficace, améliorant l’expérience des locataires et des gestionnaires.  
 
 
 ## Composition de l'équipe
