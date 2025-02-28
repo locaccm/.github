@@ -1,21 +1,17 @@
-# LocaCCM - La plateforme dédiée aux propriétaires de logements sociaux
+# LocaCCM - La plateforme complète pour la gestion de vos logements  
 
-Gérer des logements sociaux peut être un vrai défi pour les propriétaires : sélection des locataires, gestion des dossiers, suivi des paiements, communication… Autant de tâches qui prennent du temps et demandent une organisation rigoureuse.  
-
-**LocaCCM** est une plateforme en ligne pensée pour simplifier et optimiser la gestion des logements sociaux. Elle offre aux propriétaires un outil complet pour gérer leurs biens et leurs locataires de manière fluide et efficace.  
+Gérer des logements, qu'ils soient sociaux ou privés, demande du temps et une bonne organisation : sélection des locataires, suivi des paiements, gestion des documents, communication… **LocaCCM** simplifie tout cela en offrant aux propriétaires un outil digital centralisé pour optimiser la gestion de leurs biens.  
 
 ## 🎯 Fonctionnalités clés  
 
-- 📌 **Attribution simplifiée** : Les logements sont proposés automatiquement aux locataires éligibles.  
-- 🏠 **Gestion centralisée des biens** : Ajoutez, mettez à jour et suivez l’occupation de vos logements en quelques clics.  
-- 📩 **Communication facilitée** : Messagerie intégrée pour échanger directement avec vos locataires.  
-- 📊 **Tableau de bord interactif** : Suivi des attributions, paiements et documents administratifs en temps réel.  
-- 📁 **Archivage sécurisé** : Stockez et retrouvez facilement contrats, quittances et autres documents essentiels.  
-- 📅 **Outils d’organisation** : Planification des visites, rappels automatiques pour les échéances et signatures en ligne.  
+- 📌 **Attribution simplifiée** : Trouvez rapidement des locataires en fonction de leur éligibilité et de vos critères.  
+- 🏠 **Gestion centralisée** : Ajoutez, modifiez et suivez l’état de vos logements en toute simplicité.  
+- 📩 **Messagerie intégrée** : Messagerie intégrée pour échanger directement entre les différents acteurs.  
+- 📊 **Tableau de bord interactif** : Visualisez l’occupation, les paiements et les dossiers en cours en temps réel.  
+- 📁 **Stockage sécurisé** : Conservez tous vos documents importants (contrats, quittances…) en un seul endroit.  
+- 📅 **Organisation optimisée** : Planifiez visites, signatures et échéances avec des rappels automatiques.  
 
-Avec **LocaCCM**, les propriétaires disposent d’un outil moderne et intuitif pour gérer leurs logements sociaux plus rapidement, en toute transparence et sans complications.  
-
-
+Que vous soyez propriétaire d’un logement social ou d’un bien locatif privé, **LocaCCM** vous aide à gérer vos locations de manière plus efficace, transparente et sans complications.  
 
 ## Composition de l'équipe
  - **Dynastie AMOUSSOU** => QA & développement du micro-service (https://github.com/locaccm/dashboardManagement)
