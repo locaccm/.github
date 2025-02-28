@@ -11,7 +11,7 @@ Gérer des logements, demande du temps et une bonne organisation : sélection de
 - 📁 **Stockage sécurisé** : Conservez tous vos documents importants (contrats, quittances…) en un seul endroit.  
 - 📅 **Organisation optimisée** : Planifiez visites, signatures et échéances avec des rappels automatiques.  
 
-Que vous soyez propriétaire d’un logement social ou d’un bien locatif privé, **LocaCCM** vous aide à gérer vos locations de manière plus efficace, transparente et sans complications.  
+**LocaCCM** vous aide à gérer vos locations de manière plus efficace et sans complications.  
 
 ## Composition de l'équipe
  - **Dynastie AMOUSSOU** => QA & développement du micro-service (https://github.com/locaccm/dashboardManagement)
