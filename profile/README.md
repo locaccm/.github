@@ -9,7 +9,9 @@ Gérer des logements, demande du temps et une bonne organisation : sélection de
 - 📩 **Messagerie intégrée** : Messagerie intégrée pour échanger directement entre les différents acteurs.  
 - 📊 **Tableau de bord interactif** : Visualisez l’occupation, les paiements et les dossiers en cours en temps réel.  
 - 📁 **Stockage sécurisé** : Conservez tous vos documents importants (contrats, quittances…) en un seul endroit.  
-- 📅 **Organisation optimisée** : Planifiez visites, signatures et échéances avec des rappels automatiques.  
+- 📅 **Organisation optimisée** : Planifiez visites, signatures et échéances avec des rappels automatiques.
+- 🏷️ **Personnalisation des profils** : Ajoutez une photo de profil, des informations personnelles pour plus de transparence entre les utilisateurs.
+- 🔒 **Authentification sécurisée** : Connexion sécurisée avec authentification à deux facteurs pour protéger vos données et celles de vos locataires.
 
 **LocaCCM** vous aide à gérer vos locations de manière plus efficace et sans complications.  
 
