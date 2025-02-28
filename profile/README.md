@@ -1,6 +1,7 @@
 # LocaCCM - La plateforme complète pour la gestion de vos logements  
 
-Gérer des logements, demande du temps et une bonne organisation : sélection des locataires, suivi des paiements, gestion des documents, communication… **LocaCCM** simplifie tout cela en offrant aux propriétaires un outil digital centralisé pour optimiser la gestion de leurs biens.  
+Gérer des logements, demande du temps et une bonne organisation : sélection des locataires, suivi des paiements, gestion des documents, communication… 
+**LocaCCM** simplifie tout cela en offrant aux propriétaires un outil digital centralisé pour optimiser la gestion de leurs biens.  
 
 ## 🎯 Fonctionnalités clés  
 
