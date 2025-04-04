@@ -19,13 +19,13 @@ Son interface intuitive permet aux propriétaires de suivre facilement l'état d
 La plateforme aide les propriétaires à rester organisés et à optimiser leur gestion au quotidien.
 
 ## Composition de l'équipe
- - **Dynastie AMOUSSOU** => QA & développement du micro-service (https://github.com/locaccm/dashboardManagement)
+ - **Dynastie AMOUSSOU** => QA & développement du micro-service (https://github.com/locaccm/calendarManagement)
  - **Leo LOMEL** => QA & développement du micro-service (https://github.com/locaccm/chat)
  - **Axel BOUTEILLER** => Scrum Master & développement du micro-service & gestion de la base de données (https://github.com/locaccm/wealthManagement)
  - **Clement FOULON** => DevOps & développement du micro-service (https://github.com/locaccm/housingAllocation)
  - **Matthieu MARIN** => Architecte Cloud & développement du micro-service (https://github.com/locaccm/authentication)
  - **Dylan TATIN** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/notification)
- - **Mosleh SNOUSSI** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/adminManagement)
+ - **Mosleh SNOUSSI** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/dashboardManagement)
  - **Maxime CAUWET** => DevOps & développement du micro-service (https://github.com/locaccm/profileManagement)
  - **Tom DEHAME** => Producteur Owner & développement du micro-service (https://github.com/locaccm/documentManagement)
 
