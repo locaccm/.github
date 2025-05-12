@@ -25,7 +25,7 @@ La plateforme aide les propriétaires à rester organisés et à optimiser leur 
  - **Clement FOULON** => DevOps & développement du micro-service (https://github.com/locaccm/housingAllocation)
  - **Matthieu MARIN** => Architecte Cloud & développement du micro-service (https://github.com/locaccm/authentication)
  - **Dylan TATIN** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/notification)
- - **Mosleh SNOUSSI** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/dashboardManagement)
+ - **Mosleh SNOUSSI** => Developpeur front-end (https://github.com/locaccm/frontEnd) & développement du micro-service (https://github.com/locaccm/dashboardManagement) & (https://github.com/locaccm/adminManagement)
  - **Maxime CAUWET** => DevOps & développement du micro-service (https://github.com/locaccm/profileManagement)
  - **Tom DEHAME** => Producteur Owner & développement du micro-service (https://github.com/locaccm/documentManagement)
 
